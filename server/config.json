@@ -5,6 +5,14 @@
     "address": "http://localhost:3001/photos"
   },
   {
+    "route": "/photoListing",
+    "address": "http://localhost:3001/photoListing"
+  },
+  {
+    "route": "/add-photos",
+    "address": "http://localhost:3001/add-photos"
+  },
+  {
     "route": "/listings",
     "address": "http://localhost:3002/listings"
   },
