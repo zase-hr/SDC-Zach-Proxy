@@ -2,11 +2,11 @@
   "routes": [
   {
     "route": "/photos",
-    "address": "http://localhost:3001/photos"
+    "address": "http://18.188.202.84:3001/photos"
   },
   {
     "route": "/photoListing",
-    "address": "http://localhost:3001/photoListing"
+    "address": "http://18.188.202.84:3001/photoListing"
   },
   {
     "route": "/add-photos",
